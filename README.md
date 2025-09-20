@@ -1,6 +1,6 @@
 Challenge #1
 
-Solution to the "What is Football to You?" Challenge
+Solution to the "What is Football to You?" Challenge from Prof. John Gallaugher's SwiftUI Course
 
 Contact me at: [LinkedIn](https://www.linkedin.com/in/andrewstraight/)
 
